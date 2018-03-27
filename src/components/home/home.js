@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import './home.css'
 
 class home extends Component {
     render() {
         return (
-            <div>
+            <div className="header">
                 <h1>Welcome To GrabIt!</h1>
             </div>
         );

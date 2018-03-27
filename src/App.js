@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import axios from 'axios';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import home from './components/home'
+import home from './components/home/home'
 
 
 class App extends Component {
